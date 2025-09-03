@@ -11,3 +11,5 @@
 > https://raw.githubusercontent.com/macdaox/QuantumultX-cypto/refs/heads/main/rule/hongguo.conf
 ## 河马短剧去广告脚本
 > https://raw.githubusercontent.com/macdaox/QuantumultX-MacDao/refs/heads/main/rule/hemadrama.conf
+## 红果&河马二合一
+> https://raw.githubusercontent.com/macdaox/QuantumultX-MacDao/refs/heads/main/rule/drama-ads-block.conf
