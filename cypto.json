@@ -1,1 +1,33 @@
-{"name":"Cypto Web3 openAI", "description":"自用图标，添加几个目前互联网找不到的图标.", "icons":[{"name":"ChatGPT", "url":"https://raw.githubusercontent.com/zyancn/QuantumultX-cypto/main/icon/gpt.png"}, {"name":"Binance", "url":"https://raw.githubusercontent.com/zyancn/QuantumultX-cypto/main/icon/bn.png"}, {"name":"OKX", "url":"https://raw.githubusercontent.com/zyancn/QuantumultX-cypto/main/icon/ok.png"}]}
+{
+  "name": "Cypto Web3 openAI",
+  "description": "自用图标，添加几个目前互联网找不到的图标.",
+  "icons": [
+    {"name": "ChatGPT", "url": "https://raw.githubusercontent.com/zyancn/QuantumultX-cypto/main/icon/gpt.png"},
+    {"name": "Binance", "url": "https://raw.githubusercontent.com/zyancn/QuantumultX-cypto/main/icon/bn.png"},
+    {"name": "OKX", "url": "https://raw.githubusercontent.com/zyancn/QuantumultX-cypto/main/icon/ok.png"},
+    {"name": "Bitcoin", "url": "https://raw.githubusercontent.com/zyancn/QuantumultX-cypto/main/icon/bitcoin-btc-logo.png"},
+    {"name": "Ethereum", "url": "https://raw.githubusercontent.com/zyancn/QuantumultX-cypto/main/icon/ethereum-eth-logo.png"},
+    {"name": "BNB", "url": "https://raw.githubusercontent.com/zyancn/QuantumultX-cypto/main/icon/bnb-bnb-logo.png"},
+    {"name": "Tether", "url": "https://raw.githubusercontent.com/zyancn/QuantumultX-cypto/main/icon/tether-usdt-logo.png"},
+    {"name": "USD Coin", "url": "https://raw.githubusercontent.com/zyancn/QuantumultX-cypto/main/icon/usd-coin-usdc-logo.png"},
+    {"name": "XRP", "url": "https://raw.githubusercontent.com/zyancn/QuantumultX-cypto/main/icon/xrp-xrp-logo.png"},
+    {"name": "Dogecoin", "url": "https://raw.githubusercontent.com/zyancn/QuantumultX-cypto/main/icon/dogecoin-doge-logo.png"},
+    {"name": "Shiba Inu", "url": "https://raw.githubusercontent.com/zyancn/QuantumultX-cypto/main/icon/shiba-inu-shib-logo.png"},
+    {"name": "Solana", "url": "https://raw.githubusercontent.com/zyancn/QuantumultX-cypto/main/icon/solana-sol-logo.png"},
+    {"name": "Tron", "url": "https://raw.githubusercontent.com/zyancn/QuantumultX-cypto/main/icon/tron-trx-logo.png"},
+    {"name": "Arbitrum", "url": "https://raw.githubusercontent.com/zyancn/QuantumultX-cypto/main/icon/arbitrum-arb-logo.png"},
+    {"name": "Avalanche", "url": "https://raw.githubusercontent.com/zyancn/QuantumultX-cypto/main/icon/avalanche-avax-logo.png"},
+    {"name": "Bitget Token", "url": "https://raw.githubusercontent.com/zyancn/QuantumultX-cypto/main/icon/bitget-token-new-bgb-logo.png"},
+    {"name": "Dai", "url": "https://raw.githubusercontent.com/zyancn/QuantumultX-cypto/main/icon/multi-collateral-dai-dai-logo.png"},
+    {"name": "Optimism", "url": "https://raw.githubusercontent.com/zyancn/QuantumultX-cypto/main/icon/optimism-ethereum-op-logo.png"},
+    {"name": "Pepe", "url": "https://raw.githubusercontent.com/zyancn/QuantumultX-cypto/main/icon/pepe-pepe-logo.png"},
+    {"name": "Sei", "url": "https://raw.githubusercontent.com/zyancn/QuantumultX-cypto/main/icon/sei-sei-logo.png"},
+    {"name": "Sui", "url": "https://raw.githubusercontent.com/zyancn/QuantumultX-cypto/main/icon/sui-sui-logo.png"},
+    {"name": "Toncoin", "url": "https://raw.githubusercontent.com/zyancn/QuantumultX-cypto/main/icon/toncoin-ton-logo.png"},
+    {"name": "Uniswap", "url": "https://raw.githubusercontent.com/zyancn/QuantumultX-cypto/main/icon/uniswap-uni-logo.png"},
+    {"name": "Worldcoin", "url": "https://raw.githubusercontent.com/zyancn/QuantumultX-cypto/main/icon/worldcoin-org-wld-logo.png"},
+    {"name": "ApeCoin", "url": "https://raw.githubusercontent.com/zyancn/QuantumultX-cypto/main/icon/apecoin-ape-ape-logo.png"},
+    {"name": "PancakeSwap", "url": "https://raw.githubusercontent.com/zyancn/QuantumultX-cypto/main/icon/pancakeswap-cake-logo.png"},
+    {"name": "Starknet", "url": "https://raw.githubusercontent.com/zyancn/QuantumultX-cypto/main/icon/starknet-token-strk-logo.png"}
+  ]
+}
