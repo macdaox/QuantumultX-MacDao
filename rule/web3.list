@@ -252,9 +252,6 @@ HOST-SUFFIX,ftx.com,Crypto
 
 # > Metamask
 HOST-KEYWORD,metamask,Crypto
-DOMAIN,token-api.metaswap.codefi.network
-DOMAIN,min-api.cryptocompare.com
-
 # > NFT
 HOST-SUFFIX,opensea.io,Crypto
 HOST-SUFFIX,nftscan.com,Crypto
@@ -346,7 +343,6 @@ HOST-SUFFIX,sns.id,Crypto
 HOST-SUFFIX,airdrop.sns.id,Crypto
 
 # > Arweave
-DOMAIN, ans-stats.decent.land
 HOST-SUFFIX, ao-testnet.xyz,Crypto
 HOST-SUFFIX, ar-io.net,Crypto
 HOST-SUFFIX, ardrive.io,Crypto
