@@ -1,6 +1,5 @@
 # 3rd part AI router
-
-#内容：OpenAi,claude,recraft,poe,bing,gemini,perplexity
+# 内容：OpenAi,claude,recraft,poe,bing,gemini,perplexity
 DOMAIN-KEYWORD,openai
 DOMAIN-KEYWORD,chatgpt
 DOMAIN-SUFFIX,auth0.com
