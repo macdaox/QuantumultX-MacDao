@@ -84,7 +84,6 @@ HOST-SUFFIX,bnappzh.mobi,Crypto
 HOST-SUFFIX,bsc.getblock.io,Crypto
 HOST-SUFFIX,bscscan.com,Crypto
 HOST-SUFFIX,binancecnt.com,Crypto
-PROCESS-NAME,Binance.exe,Crypto
 HOST-KEYWORD,binance,Crypto
 
 # > Binance API
@@ -120,7 +119,6 @@ HOST-SUFFIX,huobi.ws,Crypto
 HOST-SUFFIX,huobi.ug,Crypto
 HOST-SUFFIX,huobi.co.ma,Crypto
 HOST-SUFFIX,huobi.br.com,Crypto
-PROCESS-NAME,Huobi.exe,Crypto
 HOST-KEYWORD,huobi,Crypto
 
 # > OKX
@@ -130,7 +128,6 @@ HOST-SUFFIX,okx-dns.com,Crypto
 HOST-SUFFIX,okx-dns1.com,Crypto
 HOST-SUFFIX,okx-dns2.com,Crypto
 HOST-SUFFIX,wallet.okex.org,Crypto
-PROCESS-NAME,OKX.exe,Crypto
 HOST-KEYWORD,okx,Crypto
 
 # > asproex
