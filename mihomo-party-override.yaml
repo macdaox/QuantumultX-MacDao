@@ -33,7 +33,7 @@ proxy-groups:
       - 🇰🇷 韩国节点
       - 🚀 手动切换
       - DIRECT
-  - name: 💬 OpenAi
+  - name: 💬 AllAi
     type: select
     proxies:
       - 🚀 节点选择
@@ -356,9 +356,9 @@ rule-providers:
     interval: 86400
     format: text
     type: http
-  OpenAi:
-    url: https://raw.githubusercontent.com/MacDao/QuantumultX-MacDao/main/clash/OpenAi.list
-    path: ./ruleset/OpenAi.list
+  AllAi:
+    url: https://raw.githubusercontent.com/MacDao/QuantumultX-MacDao/main/clash/AllAi.list
+    path: ./ruleset/AllAi.list
     behavior: classical
     interval: 86400
     format: text
@@ -503,7 +503,7 @@ rules:
   - "RULE-SET,Microsoft,Ⓜ️ 微软服务"
   - "RULE-SET,Apple,🍎 苹果服务"
   - "RULE-SET,Telegram,📲 电报消息"
-  - "RULE-SET,OpenAi,💬 OpenAi"
+  - "RULE-SET,AllAi,💬 AllAi"
   - "RULE-SET,NetEaseMusic,🎶 网易音乐"
   - "RULE-SET,Crypto,💰 数字货币"
   - "RULE-SET,Epic,🎮 游戏平台"
