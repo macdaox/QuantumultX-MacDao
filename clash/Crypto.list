@@ -1,5 +1,5 @@
 # airdrop project
-DOMAIN-SUFFIX,abs.xyz
+# DOMAIN-SUFFIX,abs.xyz  # 注释掉有问题的域名
 DOMAIN-SUFFIX,nexus.xyz
 
 # > Forum
