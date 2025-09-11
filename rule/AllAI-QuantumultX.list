@@ -24,8 +24,6 @@ HOST-SUFFIX,sentry.io,AllAI
 HOST-SUFFIX,chatgpt.com,AllAI
 
 # > Claude
-PROCESS-NAME,Claude,AllAI
-PROCESS-NAME,Claude Helper,AllAI
 HOST-KEYWORD,claude,AllAI
 HOST-SUFFIX,anthropic.com,AllAI
 HOST-SUFFIX,claude.ai,AllAI
@@ -38,11 +36,9 @@ HOST-SUFFIX,recraft.ai,AllAI
 HOST-SUFFIX,poe.com,AllAI
 
 # > AI Tools
-PROCESS-NAME,LM Studio,AllAI
 HOST-SUFFIX,lmsudio.ai,AllAI
 
 # > Grok
-PROCESS-NAME,grok,AllAI
 HOST-KEYWORD,grok,AllAI
 HOST-SUFFIX,x.ai,AllAI
 HOST-SUFFIX,grok.com,AllAI
