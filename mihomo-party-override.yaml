@@ -273,217 +273,217 @@ proxy-groups:
 
 rule-providers:
   LocalAreaNetwork:
-    url: https://raw.githubusercontent.com/MacDao/QuantumultX-MacDao/main/clash/LocalAreaNetwork.list
+    url: https://raw.githubusercontent.com/macdaox/QuantumultX-MacDao/main/clash/LocalAreaNetwork.list
     path: ./ruleset/LocalAreaNetwork.list
     behavior: classical
     interval: 86400
     format: text
     type: http
   UnBan:
-    url: https://raw.githubusercontent.com/MacDao/QuantumultX-MacDao/main/clash/UnBan.list
+    url: https://raw.githubusercontent.com/macdaox/QuantumultX-MacDao/main/clash/UnBan.list
     path: ./ruleset/UnBan.list
     behavior: classical
     interval: 86400
     format: text
     type: http
   BanAD:
-    url: https://raw.githubusercontent.com/MacDao/QuantumultX-MacDao/main/clash/BanAD.list
+    url: https://raw.githubusercontent.com/macdaox/QuantumultX-MacDao/main/clash/BanAD.list
     path: ./ruleset/BanAD.list
     behavior: classical
     interval: 86400
     format: text
     type: http
   BanProgramAD:
-    url: https://raw.githubusercontent.com/MacDao/QuantumultX-MacDao/main/clash/BanProgramAD.list
+    url: https://raw.githubusercontent.com/macdaox/QuantumultX-MacDao/main/clash/BanProgramAD.list
     path: ./ruleset/BanProgramAD.list
     behavior: classical
     interval: 86400
     format: text
     type: http
   GoogleFCM:
-    url: https://raw.githubusercontent.com/MacDao/QuantumultX-MacDao/main/clash/GoogleFCM.list
+    url: https://raw.githubusercontent.com/macdaox/QuantumultX-MacDao/main/clash/GoogleFCM.list
     path: ./ruleset/GoogleFCM.list
     behavior: classical
     interval: 86400
     format: text
     type: http
   GoogleCN:
-    url: https://raw.githubusercontent.com/MacDao/QuantumultX-MacDao/main/clash/GoogleCN.list
+    url: https://raw.githubusercontent.com/macdaox/QuantumultX-MacDao/main/clash/GoogleCN.list
     path: ./ruleset/GoogleCN.list
     behavior: classical
     interval: 86400
     format: text
     type: http
   SteamCN:
-    url: https://raw.githubusercontent.com/MacDao/QuantumultX-MacDao/main/clash/SteamCN.list
+    url: https://raw.githubusercontent.com/macdaox/QuantumultX-MacDao/main/clash/SteamCN.list
     path: ./ruleset/SteamCN.list
     behavior: classical
     interval: 86400
     format: text
     type: http
   Bing:
-    url: https://raw.githubusercontent.com/MacDao/QuantumultX-MacDao/main/clash/Bing.list
+    url: https://raw.githubusercontent.com/macdaox/QuantumultX-MacDao/main/clash/Bing.list
     path: ./ruleset/Bing.list
     behavior: classical
     interval: 86400
     format: text
     type: http
   OneDrive:
-    url: https://raw.githubusercontent.com/MacDao/QuantumultX-MacDao/main/clash/OneDrive.list
+    url: https://raw.githubusercontent.com/macdaox/QuantumultX-MacDao/main/clash/OneDrive.list
     path: ./ruleset/OneDrive.list
     behavior: classical
     interval: 86400
     format: text
     type: http
   Microsoft:
-    url: https://raw.githubusercontent.com/MacDao/QuantumultX-MacDao/main/clash/Microsoft.list
+    url: https://raw.githubusercontent.com/macdaox/QuantumultX-MacDao/main/clash/Microsoft.list
     path: ./ruleset/Microsoft.list
     behavior: classical
     interval: 86400
     format: text
     type: http
   Apple:
-    url: https://raw.githubusercontent.com/MacDao/QuantumultX-MacDao/main/clash/Apple.list
+    url: https://raw.githubusercontent.com/macdaox/QuantumultX-MacDao/main/clash/Apple.list
     path: ./ruleset/Apple.list
     behavior: classical
     interval: 86400
     format: text
     type: http
   Telegram:
-    url: https://raw.githubusercontent.com/MacDao/QuantumultX-MacDao/main/clash/Telegram.list
+    url: https://raw.githubusercontent.com/macdaox/QuantumultX-MacDao/main/clash/Telegram.list
     path: ./ruleset/Telegram.list
     behavior: classical
     interval: 86400
     format: text
     type: http
   AllAi:
-    url: https://raw.githubusercontent.com/MacDao/QuantumultX-MacDao/main/clash/AllAi.list
-    path: ./ruleset/AllAi.list
+    url: https://raw.githubusercontent.com/macdaox/QuantumultX-MacDao/main/clash/ALLAi.list
+    path: ./ruleset/ALLAi.list
     behavior: classical
     interval: 86400
     format: text
     type: http
   NetEaseMusic:
-    url: https://raw.githubusercontent.com/MacDao/QuantumultX-MacDao/main/clash/NetEaseMusic.list
+    url: https://raw.githubusercontent.com/macdaox/QuantumultX-MacDao/main/clash/NetEaseMusic.list
     path: ./ruleset/NetEaseMusic.list
     behavior: classical
     interval: 86400
     format: text
     type: http
   Epic:
-    url: https://raw.githubusercontent.com/MacDao/QuantumultX-MacDao/main/clash/Epic.list
+    url: https://raw.githubusercontent.com/macdaox/QuantumultX-MacDao/main/clash/Epic.list
     path: ./ruleset/Epic.list
     behavior: classical
     interval: 86400
     format: text
     type: http
   Origin:
-    url: https://raw.githubusercontent.com/MacDao/QuantumultX-MacDao/main/clash/Origin.list
+    url: https://raw.githubusercontent.com/macdaox/QuantumultX-MacDao/main/clash/Origin.list
     path: ./ruleset/Origin.list
     behavior: classical
     interval: 86400
     format: text
     type: http
   Sony:
-    url: https://raw.githubusercontent.com/MacDao/QuantumultX-MacDao/main/clash/Sony.list
+    url: https://raw.githubusercontent.com/macdaox/QuantumultX-MacDao/main/clash/Sony.list
     path: ./ruleset/Sony.list
     behavior: classical
     interval: 86400
     format: text
     type: http
   Steam:
-    url: https://raw.githubusercontent.com/MacDao/QuantumultX-MacDao/main/clash/Steam.list
+    url: https://raw.githubusercontent.com/macdaox/QuantumultX-MacDao/main/clash/Steam.list
     path: ./ruleset/Steam.list
     behavior: classical
     interval: 86400
     format: text
     type: http
   Nintendo:
-    url: https://raw.githubusercontent.com/MacDao/QuantumultX-MacDao/main/clash/Nintendo.list
+    url: https://raw.githubusercontent.com/macdaox/QuantumultX-MacDao/main/clash/Nintendo.list
     path: ./ruleset/Nintendo.list
     behavior: classical
     interval: 86400
     format: text
     type: http
   YouTube:
-    url: https://raw.githubusercontent.com/MacDao/QuantumultX-MacDao/main/clash/YouTube.list
+    url: https://raw.githubusercontent.com/macdaox/QuantumultX-MacDao/main/clash/YouTube.list
     path: ./ruleset/YouTube.list
     behavior: classical
     interval: 86400
     format: text
     type: http
   Netflix:
-    url: https://raw.githubusercontent.com/MacDao/QuantumultX-MacDao/main/clash/Netflix.list
+    url: https://raw.githubusercontent.com/macdaox/QuantumultX-MacDao/main/clash/Netflix.list
     path: ./ruleset/Netflix.list
     behavior: classical
     interval: 86400
     format: text
     type: http
   Bahamut:
-    url: https://raw.githubusercontent.com/MacDao/QuantumultX-MacDao/main/clash/Bahamut.list
+    url: https://raw.githubusercontent.com/macdaox/QuantumultX-MacDao/main/clash/Bahamut.list
     path: ./ruleset/Bahamut.list
     behavior: classical
     interval: 86400
     format: text
     type: http
   BilibiliHMT:
-    url: https://raw.githubusercontent.com/MacDao/QuantumultX-MacDao/main/clash/BilibiliHMT.list
+    url: https://raw.githubusercontent.com/macdaox/QuantumultX-MacDao/main/clash/BilibiliHMT.list
     path: ./ruleset/BilibiliHMT.list
     behavior: classical
     interval: 86400
     format: text
     type: http
   Bilibili:
-    url: https://raw.githubusercontent.com/MacDao/QuantumultX-MacDao/main/clash/Bilibili.list
+    url: https://raw.githubusercontent.com/macdaox/QuantumultX-MacDao/main/clash/Bilibili.list
     path: ./ruleset/Bilibili.list
     behavior: classical
     interval: 86400
     format: text
     type: http
   ChinaMedia:
-    url: https://raw.githubusercontent.com/MacDao/QuantumultX-MacDao/main/clash/ChinaMedia.list
+    url: https://raw.githubusercontent.com/macdaox/QuantumultX-MacDao/main/clash/ChinaMedia.list
     path: ./ruleset/ChinaMedia.list
     behavior: classical
     interval: 86400
     format: text
     type: http
   ProxyMedia:
-    url: https://raw.githubusercontent.com/MacDao/QuantumultX-MacDao/main/clash/ProxyMedia.list
+    url: https://raw.githubusercontent.com/macdaox/QuantumultX-MacDao/main/clash/ProxyMedia.list
     path: ./ruleset/ProxyMedia.list
     behavior: classical
     interval: 86400
     format: text
     type: http
   ProxyGFWlist:
-    url: https://raw.githubusercontent.com/MacDao/QuantumultX-MacDao/main/clash/ProxyGFWlist.list
+    url: https://raw.githubusercontent.com/macdaox/QuantumultX-MacDao/main/clash/ProxyGFWlist.list
     path: ./ruleset/ProxyGFWlist.list
     behavior: classical
     interval: 86400
     format: text
     type: http
   ChinaDomain:
-    url: https://raw.githubusercontent.com/MacDao/QuantumultX-MacDao/main/clash/ChinaDomain.list
+    url: https://raw.githubusercontent.com/macdaox/QuantumultX-MacDao/main/clash/ChinaDomain.list
     path: ./ruleset/ChinaDomain.list
     behavior: domain
     interval: 86400
     format: text
     type: http
   ChinaCompanyIp:
-    url: https://raw.githubusercontent.com/MacDao/QuantumultX-MacDao/main/clash/ChinaCompanyIp.list
+    url: https://raw.githubusercontent.com/macdaox/QuantumultX-MacDao/main/clash/ChinaCompanyIp.list
     path: ./ruleset/ChinaCompanyIp.list
     behavior: ipcidr
     interval: 86400
     format: text
     type: http
   Download:
-    url: https://raw.githubusercontent.com/MacDao/QuantumultX-MacDao/main/clash/Download.list
+    url: https://raw.githubusercontent.com/macdaox/QuantumultX-MacDao/main/clash/Download.list
     path: ./ruleset/Download.list
     behavior: classical
     interval: 86400
     format: text
     type: http
   Crypto:
-    url: https://raw.githubusercontent.com/MacDao/QuantumultX-MacDao/main/clash/Crypto.list
+    url: https://raw.githubusercontent.com/macdaox/QuantumultX-MacDao/main/clash/Crypto.list
     path: ./ruleset/Crypto.list
     behavior: classical
     interval: 86400
