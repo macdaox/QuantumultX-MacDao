@@ -369,3 +369,6 @@ HOST-SUFFIX, suilend.fi,Crypto
 
 # hyperliquid
 HOST-SUFFIX, hyperliquid.xyz,Crypto
+
+# backpack
+HOST-SUFFIX, backpack.exchange,Crypto
