@@ -39,7 +39,6 @@ HOST,static.cloudflareinsights.com,All-AI
 HOST,sydney.bing.com,All-AI
 HOST,www.bing.com,All-AI
 HOST-KEYWORD,colab,All-AI
-HOST-KEYWORD,deepseek,All-AI
 HOST-KEYWORD,developerprofiles,All-AI
 HOST-KEYWORD,generativelanguage,All-AI
 HOST-KEYWORD,openai,All-AI
@@ -77,7 +76,6 @@ HOST-SUFFIX,deepmind.com,All-AI
 HOST-SUFFIX,deepmind.google,All-AI
 HOST-SUFFIX,deepseek.com,All-AI
 HOST-SUFFIX,dify.ai,All-AI
-HOST-SUFFIX,doubao.com,All-AI
 HOST-SUFFIX,edgeservices.bing.com,All-AI
 HOST-SUFFIX,elevenlabs.com,All-AI
 HOST-SUFFIX,elevenlabs.io,All-AI
@@ -98,7 +96,6 @@ HOST-SUFFIX,identrust.com,All-AI
 HOST-SUFFIX,intercom.io,All-AI
 HOST-SUFFIX,intercomcdn.com,All-AI
 HOST-SUFFIX,jetbrains.ai,All-AI
-HOST-SUFFIX,kimi.com,All-AI
 HOST-SUFFIX,launchdarkly.com,All-AI
 HOST-SUFFIX,llama.com,All-AI
 HOST-SUFFIX,llamameta.net,All-AI
@@ -108,8 +105,6 @@ HOST-SUFFIX,meta.ai,All-AI
 HOST-SUFFIX,metaaivm.com,All-AI
 HOST-SUFFIX,midjourney.com,All-AI
 HOST-SUFFIX,mistral.ai,All-AI
-HOST-SUFFIX,moonshot.ai,All-AI
-HOST-SUFFIX,moonshot.cn,All-AI
 HOST-SUFFIX,muse.ai,All-AI
 HOST-SUFFIX,nnthink.com,All-AI
 HOST-SUFFIX,oaistatic.com,All-AI
@@ -125,17 +120,9 @@ HOST-SUFFIX,poe.com,All-AI
 HOST-SUFFIX,poecdn.net,All-AI
 HOST-SUFFIX,pplx.ai,All-AI
 HOST-SUFFIX,proactivebackend-pa.googleapis.com,All-AI
-HOST-SUFFIX,qianwen.aliyun.com,All-AI
-HOST-SUFFIX,qianwen.com,All-AI
-HOST-SUFFIX,qoder.cn,All-AI
-HOST-SUFFIX,qoder.com.cn,All-AI
-HOST-SUFFIX,qwen.ai,All-AI
-HOST-SUFFIX,qwenlm.ai,All-AI
 HOST-SUFFIX,segment.io,All-AI
 HOST-SUFFIX,sentry.io,All-AI
 HOST-SUFFIX,stripe.com,All-AI
-HOST-SUFFIX,tongyi.aliyun.com,All-AI
-HOST-SUFFIX,tongyi.com,All-AI
 HOST-SUFFIX,turn.livekit.cloud,All-AI
 HOST-SUFFIX,windsurf.build,All-AI
 HOST-SUFFIX,windsurf.com,All-AI
@@ -144,9 +131,7 @@ HOST-SUFFIX,xingyeai.com,All-AI
 HOST-SUFFIX,youmind.ai,All-AI
 HOST-SUFFIX,youmind.com,All-AI
 HOST-SUFFIX,youmind.site,All-AI
-HOST-SUFFIX,z.ai,All-AI
 HOST-SUFFIX,zhipuai.cn,All-AI
-HOST-SUFFIX,zhipucn.com,All-AI
 IP-ASN,14061,All-AI,no-resolve
 IP-ASN,20473,All-AI,no-resolve
 IP-CIDR,24.199.123.28/32,All-AI,no-resolve
